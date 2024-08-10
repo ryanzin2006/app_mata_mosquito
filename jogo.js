@@ -21,6 +21,8 @@ if(nivel === "normal"){
 
     criamosquitotempo = 750
 
+}else if(nivel === "impossivel"){
+    criamosquitotempo = 500
 }
 
 function ajustatamanhopalcojogo(){
